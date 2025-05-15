@@ -1,0 +1,24 @@
+[layout]
+a z e r t y u i o p
+q s d f g h j k l m
+shift w x c v b n ñ ŋ bck
+space @ . return
+
+[values]
+e: e é ë ê è ę ė ē
+u: u ú ü û ù ū
+i: i í ï ì î į ī
+o: o ó ö ô ò õ ø ō
+a: a á ä â à æ ã å ā
+s: s ß
+j: j j́
+c: c ƈ ç
+n: n ñ ŋ
+b: b ɓ
+d: d ɗ
+j: j ʃ
+p: p ƥ
+t: t ƭ
+y: y ƴ
+,: , ; &colon; ' "
+.: . ! ?
